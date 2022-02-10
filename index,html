@@ -1,0 +1,38 @@
+<table width="100%" border="2" bordercolor="#ffff00" bgcolor='#ff0000'>
+  <tr>
+    <th>bakas</th>
+    <th>kugu veids</th>
+    <th>juras dzivnieki</th>
+    <th>juras putni</th>
+  </tr>
+  <tr>
+    <td>Ovišu bāka</td>
+    <td>Balkeris</td>
+    <td>Ronis</td>
+    <td>Sudrabkaija</td>
+  </tr>
+  <tr>
+    <td>Šlīteres bāka</td>
+    <td>Konteinerkuģis</td>
+    <td>Lielās gauras</td>
+    <td>Kākauļi</td>
+  </tr>
+  <tr>
+    <td>Daugavgrīvas bāka</td>
+    <td>ravas kuģis</td>
+    <td>Adatādaiņi</td>
+    <td>Alks</td>
+  </tr>
+  <tr>
+    <td>Kolkas bāka</td>
+    <td>Kravas zemūdene</td>
+    <td>Ofiūras</td>
+    <td>pukpile</td>
+  </tr>
+  <tr>
+    <td>Buļļuciema bāka</td>
+    <td>Ledlauzis</td>
+    <td>Staraiņi </td>
+    <td>melnais alks</td>
+  </tr>
+<table width="100%" border="2" bordercolor="#ffff00" bgcolor='#ff0000'>
